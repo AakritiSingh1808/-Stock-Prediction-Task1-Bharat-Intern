@@ -1,5 +1,5 @@
-# -Stock-Prediction-Task1-Bharat-Intern
-Stock-Prediction-Task1-Bharat-Intern
+# -Stock-Prediction
+Stock-Prediction
 
 Task: Stock price prediction
 
